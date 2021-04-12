@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Assignment3_TranBaSon">
+    <Resource
+        name="DBCon" auth="Container" type="javax.sql.DataSource" 
+        username="sa" password="123456789"
+        driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+        url="jdbc:sqlserver://localhost:1433;databaseName=Assignment3_TranBaSon">
+    </Resource>
+</Context>
+
